@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://github.com/eharquin/eharquin/blob/main/img/banner.png" alt="banner that says Enzo Harquin, portfolio of a junior computer graphics engineer">
 
 <!--
 **eharquin/eharquin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
